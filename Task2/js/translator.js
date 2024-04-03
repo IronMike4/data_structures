@@ -7,7 +7,7 @@ The following links helped me understand the topic and how to solve the problem:
  - https://www.freecodecamp.org/news/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27/
 For more information about this please visit https://github.com/IronMike4/data_structures */
 
-// Tranlation dictionary with English words as keys and their translated words as values
+// Translation dictionary with English words as keys and their translated words as values
 const translationMap = new Map([
   ["run", "mhanya"],
   ["walk", "famba"],
