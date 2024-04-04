@@ -18,7 +18,6 @@ const translationMap = new Map([
   ["book", "bhuku"],
   ["school", "chikoro"],
   ["car", "mota"],
-  ["plane", "ndege"],
   ["tree", "muti"],
 ]);
 
